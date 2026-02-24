@@ -34,7 +34,7 @@ Example output:
 The system detects contradiction and factual error, then returns the corrected value.
 
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * Add NLI-based contradiction detection
 * Integrate semantic similarity scoring
